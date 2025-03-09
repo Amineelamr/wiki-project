@@ -1,3 +1,9 @@
-# Welkom op mijn Wiki!
+# Welkom bij de Voetbal Wiki!
 
-Dit is de inleiding van mijn Wiki over voetbal. Hier zal ik alles beschrijven wat er te weten valt over voetbal, inclusief de personages, het verhaal en de locaties.
+Dit is een wiki die alles bespreekt over de wereld van voetbal. Hier kun je meer leren over de grootste competities, beroemde teams, en beroemde voetballers.
+
+- [Competities](competities.md)
+- [Teams](teams.md)
+- [Beroemde Spelers](spelers.md)
+
+
