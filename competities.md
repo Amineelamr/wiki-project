@@ -12,7 +12,7 @@ De UEFA Champions League is de topcompetitie voor clubteams in Europa. Het wordt
 De Engelse Premier League wordt beschouwd als een van de sterkste nationale competities ter wereld. Het heeft enkele van de beste teams zoals Manchester United, Liverpool en Chelsea.
 
 ## La Liga
-La Liga is de hoogste divisie van het Spaanse voetbal. Het bevat enkele van de grootste teams ter wereld, waaronder FC Barcelona en Real Madrid.
+La Liga is de hoogste divisie van het Spaanse voetbal. Het bevat enkele van de grootste teams ter wereld, waaronder FC Barcelona, Atletico Madrid en Real Madrid.
 
 ## Serie A
 Serie A is de topcompetitie in Italië. Het heeft beroemde teams zoals Juventus, AC Milan en Inter Milan.
